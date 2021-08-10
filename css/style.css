@@ -1,0 +1,119 @@
+body {
+    background: rgb(255, 255, 255);
+}
+
+header {
+    background: rgb(77, 77, 77);
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+nav 
+{
+    margin-top: 20px;
+    padding-top: 20px;
+    margin-left: 445px;
+    width: 1000px;
+}
+
+nav li 
+{
+    float:left;
+    margin-top: 30px;
+    margin-right: 40px;
+    color: #b4b3b3;
+    margin-left: 30px;
+}
+
+
+nav img 
+{
+    float: left;
+  
+    color: rgb(27, 27, 27);
+}
+
+nav li a 
+{
+    
+    color: rgb(255, 255, 255);
+}
+
+#top
+{
+  
+    width: 1000px;
+  
+    margin-bottom: 20px;
+}
+
+#middle
+{
+    width: 1000px;
+
+    margin-bottom: 20px;
+}
+
+#middle > img
+{
+   
+    padding: 10px;
+   
+}
+
+#bottom
+{
+    width: 1000px;
+   
+    margin-bottom: 20px;
+}
+
+#bottom > img
+{
+    float: left;
+    margin-right: 25px;
+    margin-bottom: 20px;
+}
+
+#scroll 
+{
+    height: 300px;
+    overflow: scroll;
+    width: 455px;
+    padding-bottom: 5px;
+}
+
+#bottom  h1 
+{
+    font-size: 24px;
+    
+}
+
+main
+{
+    width: 950px;
+    margin: 0 auto;
+}
+
+button 
+{
+    
+    background: #000;
+    padding: 8px 30px;
+    color: rgb(231, 231, 231);
+    font-weight: 700;
+    margin-top: 35px;
+   
+}
+
+button:hover 
+{
+    background: rgb(109, 109, 109);
+}
+
+footer {
+    
+    height: 100px;
+    background: rgb(77, 77, 77);
+    margin-top: 20px;
+}
